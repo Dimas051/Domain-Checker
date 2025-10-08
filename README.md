@@ -35,4 +35,5 @@ dead.txt ➡️ untuk domain yang tidak aktif
 
 🔐 Catatan:
 Tidak mengecek apakah domain tersebut expired secara WHOIS — hanya cek apakah bisa diakses.
+
 Tidak mengikuti robots.txt atau pengecekan etis lainnya.
